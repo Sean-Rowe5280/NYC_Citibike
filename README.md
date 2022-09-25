@@ -11,6 +11,8 @@ The purpose of this project was to analyze trends among Citi Bike users in the N
 
 ## Results
 
+https://public.tableau.com/views/Deliverable1-NYCBikeVisualization/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ![1](https://user-images.githubusercontent.com/107006216/192119274-ad7ed796-f5e7-45ee-b1fe-e4ba3a7785e8.png)
 
 ![2](https://user-images.githubusercontent.com/107006216/192119324-43cfbfb3-33b9-4ed9-835f-571220da0b74.png)
